@@ -1,4 +1,5 @@
 /**
+ * salut
  * Copyright (c) 2012 - 2018, Nordic Semiconductor ASA
  *
  * All rights reserved.
